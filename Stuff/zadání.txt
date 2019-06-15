@@ -1,0 +1,25 @@
+﻿PROJEKT 2. D, ZADÁNÍ
+Vytvoříte aplikaci, dle vybraného tématu.
+Aplikace bude stvořena s technologií FXML, některé výstupy lze možné zobrazovat v konzoli.
+
+V aplikaci budou použity tyto vybrané kapitoly z Javy:
+- OOP
+- dědičnost, abstraktní třída, rozhraní
+- práce s výjimkami, generikami a kolekcemi
+- pokročilá práce se Stringy
+- zápis do souboru a čtení ze souboru
+- JDBC
+
+NÁVRH
+Do Wordu si načrtněte, o jaký druh aplikace se jedná.
+V bodech popíšete smysl a cíl aplikace.
+Rozepište, co se bude v aplikaci nacházet a jak bude aplikace fungovat.
+Vizualizujte podobu aplikace.
+V bodech popište, jak se aplikace používá.
+Udělejte si poznámky, jakým způsobem naimplementujete požadované body.
+Návrh mi nahrejte do 19. 5. 2019 zde: https://www.dropbox.com/request/uzJbcEaCKMEVmNerJ6SX
+
+IMPLEMENTACE
+V průběhu dnů 20. - 23. května vám nasdílím složku s připomínkami k vašemu návrhu aplikace a na základě nasdíleného dokumentu v Javě aplikaci stvoříte.
+Samotná aplikace se bude držet linie popsané v dokumentu.
+Zabalený projekt odevzdáte zde: ... odkaz bude dodán ...
